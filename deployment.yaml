@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.huhsp.org.br
+  - host: go.huhsp.org.br
     http:
       paths:
         - path: /
