@@ -50,7 +50,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.dev-ops-ninja.com
+  - host: go.rancher.huhsp.org.br
     http:
       paths:
         - path: /
